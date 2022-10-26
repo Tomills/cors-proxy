@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "cors-proxy",
+    "name": "thq-proxy",
     "builds": [
        { "src": "app.js", "use": "@vercel/node" }
     ],
